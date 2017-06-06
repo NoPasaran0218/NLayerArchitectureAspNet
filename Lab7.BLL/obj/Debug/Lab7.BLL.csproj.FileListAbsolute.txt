@@ -1,0 +1,13 @@
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\Lab7.BLL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\Lab7.BLL.pdb
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\Lab7.DAL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\Ninject.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\Lab7.DAL.pdb
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\Ninject.xml
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\obj\Debug\Lab7.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\obj\Debug\Lab7.BLL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.BLL\obj\Debug\Lab7.BLL.pdb

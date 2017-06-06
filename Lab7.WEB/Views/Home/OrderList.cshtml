@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Lab7.BLL.DTO.OrderDTO>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Scripts.Render("~/Scripts/MyScript/Order.js")
+<h2>Orders:</h2>
+<section class="order-stn">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                @foreach(var item in Model)
+                {
+                    <div class="order-item">
+                        <h1>Заказ №: @item.Id</h1>
+                        @foreach(var menu in item.MenuItems)
+                        {
+                            <h3>Name: @menu.Dish.Name</h3>
+                            <h3>Size: @menu.Size.Name</h3>
+                        }
+                        <p>Price: @item.Price</p>
+                        <p>Date: @item.Date</p>
+                        <p>Complite: @item.Complite</p>
+                        <a href="#" itemid="@item.Id">Complited</a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>

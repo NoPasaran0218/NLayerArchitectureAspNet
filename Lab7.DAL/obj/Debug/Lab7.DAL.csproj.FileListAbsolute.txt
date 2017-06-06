@@ -1,0 +1,10 @@
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\Lab7.DAL.dll.config
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\Lab7.DAL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\Lab7.DAL.pdb
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\obj\Debug\Lab7.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\obj\Debug\Lab7.DAL.dll
+C:\Users\Serhiy\Documents\Visual Studio 2015\Projects\Kramar\Lab7\Lab7.DAL\obj\Debug\Lab7.DAL.pdb
